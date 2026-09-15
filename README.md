@@ -6,3 +6,4 @@ rani==9999
 restorant==1.1
 toggle==2.1.1
 west==1.2.1
+qween==1.2.1
